@@ -8,7 +8,7 @@
 - ✈️ I enjoy travel, experiment, puzzle, football and video games
 - 🧬 I write too; sometimes
 - 🔭 You can find out more about me on here - (website will be available soon)
-- 📫 How to reach me -> Email: nonsowisdom62@gmail.com <a href="nonsowisdom62@gmail.com">Email</a> mailto:nonsowisdom62@gmail.com?Subject=Email
+- 📫 How to reach me -><a href="mailto:nonsowisdom62@gmail.com?subject=Your message">Email</a>
 
 <!---
 dhev-wisdom/dhev-wisdom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @dhev-wisdom
-- 🔢 l'm 22 yrs old
-- 💻 I’m a React developer
+- 👋 Hi, My name is Wisdom Chinonso
+- 🔢 l'm 23 yrs old
+- 💻 I’m a junior full stack developer
 - 🏡 I'm presently enrolled in ALX SE programme where I'm training to be a software engineer
-- 🧩 I’m currently learning C and Python
-- ⚡ I’m open to React and Frontend roles and ready to start immediately
-- ❄️ I'm interested in building websites and web apps with flawless user experience
+- 🧩 I’m currently learning C, Python, MySql, SqlAlchemy, Bash Scripting, Testing, etc
+- ⚡ I’m open to junior full stack and junior backend engineer roles and ready to start immediately
+- ❄️ I'm interested in building products and systems with flawless user experience
 - ✈️ I enjoy travel, experiment, puzzle, football and video games
-- 🧬 I write too; sometimes
+- 🧬 I write too
 - 🔭 You can find out more about me on here - (website will be available soon)
 - 📫 How to reach me -><a href="mailto:nonsowisdom62@gmail.com?subject=Your message"> Email</a>
 

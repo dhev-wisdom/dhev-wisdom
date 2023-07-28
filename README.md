@@ -8,7 +8,7 @@
 - ✈️ I enjoy travel, experiment, puzzle and sports
 - 🧬 I write too. I am also currently learning professional Technical writing at Google
 - 📫 How to reach me -><a href="mailto:nonsowisdom62@gmail.com?subject=Your message"> Email</a>
-- 🌎 Socials -><a href="https://www.twitter.com/wisdom_theDev"> Twitter</a> <a href="www.linkedin.com/in/dev-chinonso-agbo"> LinkedIn</a>
+- 🌎 Socials -><a href="https://www.twitter.com/wisdom_theDev"> Twitter</a> <a href="https://www.linkedin.com/in/dev-chinonso-agbo"> LinkedIn</a>
 
 <!---
 dhev-wisdom/dhev-wisdom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

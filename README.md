@@ -1,5 +1,5 @@
-- 👋 Hi, My name is Wisdom Chinonso
-- 🔢 l'm 23 yrs
+- 👋 Hi, I am Wisdom Chinonso
+- 🔢 l'm 23
 - 💻 I’m a full stack developer with focus on backend engineering
 - 🏡 I'm presently enrolled in ALX SE programme where I'm training to be a full stack software engineer
 - 🧩 I’m currently learning Python, MySql, Javascript, Node.js and React.js
@@ -14,3 +14,8 @@
 dhev-wisdom/dhev-wisdom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Dev-Wisdom's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhev-wisdom&show_icons=true&bg_color=00000000)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhev-wisdom)](https://github.com/dhev-wisdom/github-readme-stats)
+
+[![Dev-Wisdom's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dhevwisdom)](https://github.com/dhev-wisdom/github-readme-stats)

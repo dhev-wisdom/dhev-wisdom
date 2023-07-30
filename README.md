@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=dhev-wisdom&color=blue)
+
 - 👋 Hi, I am Wisdom Chinonso
 - 🔢 l'm 23
 - 💻 I’m a full stack developer with focus on backend engineering

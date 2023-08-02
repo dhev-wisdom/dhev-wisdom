@@ -8,7 +8,7 @@
 - ⚡ I’m open to junior and intern full stack and backend roles
 - ❄️ I'm interested in building products and systems with flawless user experience
 - ✈️ I enjoy travel, experiment, puzzle and sports
-- 🧬 I write too. I am also currently learning professional Technical writing at Google
+- 🧬 I write too. I am currently learning Technical writing at Google
 - 📫 How to reach me -><a href="mailto:nonsowisdom62@gmail.com?subject=Your message"> Email</a>
 - 🌎 Socials -><a href="https://www.twitter.com/wisdom_theDev"> Twitter</a> <a href="https://www.linkedin.com/in/dev-chinonso-agbo"> LinkedIn</a>
 

@@ -4,7 +4,7 @@
 - 🔢 l'm 23
 - 💻 I’m a full stack developer with focus on backend engineering
 - 🏡 I'm presently enrolled in ALX SE programme where I'm training to be a full stack software engineer
-- 🧩 I’m currently learning Python, MySql, Javascript, Node.js and React.js
+- 🧩 I’m currently learning Python, Django, MySql, Javascript, Node.js and React.js
 - ⚡ I’m open to junior and intern full stack and backend roles
 - ❄️ I'm interested in building products and systems with flawless user experience
 - ✈️ I enjoy travel, experiment, puzzle and sports

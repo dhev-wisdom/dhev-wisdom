@@ -38,6 +38,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 <br />
+<br />
 
 ![Dev-Wisdom's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhev-wisdom&show_icons=true&bg_color=00000000)
 
@@ -49,7 +50,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
-<h4>Tools I work with:</h4>
+<h3>Tools I work with:</h3>
 <hr />
 
 <a href="https://skillicons.dev" rel="nofollow"><img src="https://camo.githubusercontent.com/897b5631ef932438be55e877e09f9e1d078ff738e58193cfaafc06a0b4112868/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d70792c632c6370702c6a732c68746d6c2c6373732c72656765782c6a71756572792c6d642c76696d2c6c696e75782c626173682c6769742c646f636b65722c6d7973716c2c73716c6974652c6769746875622c61726475696e6f2c646a616e676f2c666173746170692c666c61736b2c6d61746c61622c6d6f6e676f64622c6e67696e782c706f7374677265732c706f73746d616e2c72656469732c74656e736f72666c6f772c7673636f6465267065726c696e653d36" alt="Python, Javascript, HTML, CSS, Bootstrap Regex, jQuery, Vim, Bash, Git, Docker, MySQL, SQLite, Github, Django, Flask, NGINX, Postgresql, Postman, Redis, VSCode" data-canonical-src="https://skillicons.dev/icons?i=py,js,html,css,bootstrap,regex,jquery,vim,linux,bash,git,docker,mysql,sqlite,github,django,flask,nginx,postgres,postman,redis,vscode&amp;perline=6" style="max-width: 100%;"></a>

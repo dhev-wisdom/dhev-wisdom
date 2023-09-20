@@ -14,8 +14,6 @@ My name is  <b>Wisdom Chinonso</b> and I am a <b>Software Engineer</b>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Software+Engineer;Full+Stack+Web+Developer;Django+Developer;Frontend+Engineer;Growing+Technical+Writer;AI+Enthusiast)](https://git.io/typing-svg)
 </div>
 
-
-<br />
 <br />
 
 - 🔢 l'm 23
@@ -62,7 +60,7 @@ You can click the Preview link to take a look at your changes.
 <h3>Tools I work with:</h3>
 <hr />
 
-<a href="https://skillicons.dev" rel="nofollow"><img src="https://camo.githubusercontent.com/897b5631ef932438be55e877e09f9e1d078ff738e58193cfaafc06a0b4112868/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d70792c632c6370702c6a732c68746d6c2c6373732c72656765782c6a71756572792c6d642c76696d2c6c696e75782c626173682c6769742c646f636b65722c6d7973716c2c73716c6974652c6769746875622c61726475696e6f2c646a616e676f2c666173746170692c666c61736b2c6d61746c61622c6d6f6e676f64622c6e67696e782c706f7374677265732c706f73746d616e2c72656469732c74656e736f72666c6f772c7673636f6465267065726c696e653d36" alt="Python, Javascript, HTML, CSS, Bootstrap Regex, jQuery, Vim, Bash, Git, Docker, MySQL, SQLite, Github, Django, Flask, NGINX, Postgresql, Postman, Redis, VSCode" data-canonical-src="https://skillicons.dev/icons?i=py,js,html,css,bootstrap,regex,jquery,vim,linux,bash,git,docker,mysql,sqlite,github,django,flask,nginx,postgres,postman,redis,vscode&amp;perline=6" style="max-width: 100%;"></a>
+<a href="https://skillicons.dev" rel="nofollow"><img src="https://camo.githubusercontent.com/897b5631ef932438be55e877e09f9e1d078ff738e58193cfaafc06a0b4112868/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d70792c632c6370702c6a732c68746d6c2c6373732c72656765782c6a71756572792c6d642c76696d2c6c696e75782c626173682c6769742c646f636b65722c6d7973716c2c73716c6974652c6769746875622c61726475696e6f2c646a616e676f2c666173746170692c666c61736b2c6d61746c61622c6d6f6e676f64622c6e67696e782c706f7374677265732c706f73746d616e2c72656469732c74656e736f72666c6f772c7673636f6465267065726c696e653d36" alt="Python, Javascript, React, HTML, CSS, Bootstrap Regex, jQuery, Vim, Bash, Git, Docker, MySQL, SQLite, Github, Django, Flask, NGINX, Postgresql, Postman, Redis, VSCode" data-canonical-src="https://skillicons.dev/icons?i=py,js,react,html,css,bootstrap,regex,jquery,vim,linux,bash,git,docker,mysql,sqlite,github,django,flask,nginx,postgres,postman,redis,vscode&amp;perline=6" style="max-width: 100%;"></a>
 
 <br />
 <br />
@@ -81,3 +79,8 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 <br />
+
+<h3><i>Joke of the day</i></h3>
+<hr />
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+

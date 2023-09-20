@@ -6,6 +6,15 @@ Hey there 👋
 <br />
 
 My name is  <b>Wisdom Chinonso</b> and I am a <b>Software Engineer</b>
+
+<br />
+
+<div align="center" style="border: px solid #000000;>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Software+Engineer;Full+Stack+Web+Developer;Django+Developer;Frontend+Engineer;Growing+Technical+Writer;AI+Enthusiast)](https://git.io/typing-svg)
+</div>
+
+
 <br />
 <br />
 

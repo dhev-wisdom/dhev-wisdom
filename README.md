@@ -11,7 +11,7 @@ My name is  <b>Wisdom Chinonso</b> and I am a <b>Software Engineer</b>
 
 <div align="center" style="border: px solid #000000;>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Software+Engineer;Full+Stack+Web+Developer;Django+Developer;Frontend+Engineer;Growing+Technical+Writer;Reaxt+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Software+Engineer;Full+Stack+Web+Developer;Django+Developer;Frontend+Engineer;Growing+Technical+Writer;React+Developer)](https://git.io/typing-svg)
 </div>
 
 <br />

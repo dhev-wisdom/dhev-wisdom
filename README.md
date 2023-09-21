@@ -11,7 +11,7 @@ My name is  <b>Wisdom Chinonso</b> and I am a <b>Software Engineer</b>
 
 <div align="center" style="border: px solid #000000;>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Software+Engineer;Full+Stack+Web+Developer;Django+Developer;Frontend+Engineer;Growing+Technical+Writer;AI+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Software+Engineer;Full+Stack+Web+Developer;Django+Developer;Frontend+Engineer;Growing+Technical+Writer;Reaxt+Developer)](https://git.io/typing-svg)
 </div>
 
 <br />
@@ -20,7 +20,7 @@ My name is  <b>Wisdom Chinonso</b> and I am a <b>Software Engineer</b>
 - 💻 I’m a full stack developer with focus on backend engineering
 - 🏡 I'm presently enrolled in <b>ALX SE</b> programme where I'm training to be a full stack software engineer
 - 🧩 I’m currently learning <b>Python, Django, MySql, Javascript, Node.js</b> and <b>React.js</b>
-- ⚡ I’m open to junior and intern full stack and backend roles
+- ⚡ I’m open to junior and intern django, full stack, backend and react roles
 - ❄️ I'm interested in building products and systems with flawless user experience
 - ✈️ I enjoy travel, experiment, puzzle and sports
 - 🧬 I write too. I am currently learning <b>Technical writing</b> at Google
@@ -67,9 +67,6 @@ You can click the Preview link to take a look at your changes.
 
 <h3>Reach me:</h3>
 <hr />
-<a href="https://www.discord.com/Dev-Wisdom#5512" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/44aa2d906f053e2c8a5ca342933a1307248c1565d17e93dd457e51e6bd3efa10/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d646973636f7264" data-canonical-src="https://skillicons.dev/icons?i=discord" style="max-width: 100%;">
-</a>
 <a href="https://www.twitter.com/wisdom_theDev" rel="nofollow">
     <img src="https://camo.githubusercontent.com/c19ed1b17d0d94a04e70a5c754d8cc907c9757286ef601c9d03de9c0c2e4b584/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d74776974746572" data-canonical-src="https://skillicons.dev/icons?i=twitter" style="max-width: 100%;">
 </a>

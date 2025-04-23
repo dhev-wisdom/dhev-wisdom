@@ -5,7 +5,7 @@ Hey there 👋
 
 <br />
 
-My name is  <b>Wisdom Chinonso</b> and I am a <b>Software Engineer</b>
+My name is  <b>Chinonso Wisdom</b> and I am a <b>Software Engineer</b>
 
 <br />
 
@@ -18,10 +18,10 @@ My name is  <b>Wisdom Chinonso</b> and I am a <b>Software Engineer</b>
 
 - 🔢 l'm 23
 - 💻 I’m a full stack developer with focus on backend engineering
-- 🏡 I'm presently enrolled in <b>ALX SE</b> programme where I'm training to be a full stack software engineer
-- 🧩 I’m currently learning <b>Python, Django, MySql, Javascript, Node.js</b> and <b>React.js</b>
-- ⚡ I’m open to junior and intern django, full stack, backend and react roles
-- ❄️ I'm interested in building products and systems with flawless user experience
+- 🏡 <b>ALX SE</b> graduate; trained full-stack software engineer
+- 🧩 Proficient in <b>React.js, Python, Django, MySql, Javascript, Node.js</b> and <b>Tailwind</b>
+- ⚡ I’m open to junior and intermediate django, full stack, frontend, backend and react roles
+- ❄️ I love building products and systems that work.
 - ✈️ I enjoy travel, experiment, puzzle and sports
 - 🧬 I write too. I am currently learning <b>Technical writing</b> at Google
 - 📫 How to reach me -><a href="mailto:nonsowisdom62@gmail.com?subject=Your message"> Email</a>

@@ -16,7 +16,7 @@ My name is  <b>Chinonso Wisdom</b> and I am a <b>Software Engineer</b>
 
 <br />
 
-- 🔢 l'm 23
+- 🔢 l'm 25
 - 💻 I’m a full stack developer with focus on backend engineering
 - 🏡 <b>ALX SE</b> graduate; trained full-stack software engineer
 - 🧩 Proficient in <b>React.js, Python, Django, MySql, Javascript, Node.js</b> and <b>Tailwind</b>
